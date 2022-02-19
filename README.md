@@ -1,0 +1,3 @@
+- I’m Mario
+- I’m interested in linux OS and data science
+- I’m currently learning C and some linux
