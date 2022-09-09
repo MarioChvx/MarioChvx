@@ -3,7 +3,7 @@
 ### About me:</br>
 
 - :books: I’m currently learning Spark, Hadoop and Sacala.
-- :pushpin: Interests: Data, Machine learning, Bloging and Linux Esosystem.
+- :pushpin: Interests: Data, Machine learning, Bloging and Linux Ecosystem.
 - 💬 Ask me about **Fitnes, Calisthenics, Biology, Computer History.**
 
 ### I know more about: </br>
