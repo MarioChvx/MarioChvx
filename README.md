@@ -1,6 +1,6 @@
 # Hey there I'm Mario
 
-### 3 things about me:</br>
+### About me:</br>
 
 - :books: I’m currently learning Spark, Hadoop and Sacala.
 - :pushpin: Interests: Data, Machine learning, Bloging and Linux Esosystem.
