@@ -2,9 +2,7 @@
 
 ### About me:</br>
 
-- :books: I’m currently learning Spark, Hadoop and Sacala.
-- :pushpin: Interests: Data, Machine learning, Bloging and Linux Ecosystem.
-- 💬 Ask me about **Fitnes, Calisthenics, Biology, Computer History.**
+I am a Data Science student with a passion for Data Engineering, Backend Development and Data Bases. I have a strong interest in learning about Big Data, Machine Learning, and OS. Outside Software Development world I also enjoy PC Hardware, Calisthenics, Motorcycles and Cooking.
 
 ### Technolgies I know: </br>
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python)
