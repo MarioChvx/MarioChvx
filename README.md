@@ -19,7 +19,7 @@ I am a Data Science student with a passion for Data Engineering, Backend Develop
 
 ## Technologies I have worked with
 
-![Firebase](https://img.shields.io/badge/-Firebase-000000?style=for-the-badge&logo=Firebase&logoColor=FFCA28&labelColor=4169E1)
+![Firebase](https://img.shields.io/badge/-Firebase-000000?style=for-the-badge&logo=Firebase&logoColor=ffffff&labelColor=FFCA28)
 ![Hugo](https://img.shields.io/badge/-Hugo-000000?style=for-the-badge&logo=Hugo&logoColor=FFFFFF&labelColor=FF4088)
 ![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git&logoColor=FFFFFF&labelColor=F05032)
 ![Linux](http://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=Linux&logoColor=FFFFFF&labelColor=FCC624)
