@@ -6,26 +6,26 @@ I am a Data Science student with a passion for Data Engineering, Backend Develop
 
 ## Reach me out
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/mariochvx/)
-[![Gmail](https://img.shields.io/badge/-Gmail-DB4437?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mariochavez1292@gmail.com)
-[![mail](https://img.shields.io/badge/-contactme@mariochvx.com-000000?style=for-the-badge&logoColor=white)](mailto:contactme@mariochvx.com)
-[![mariochvx.com](https://img.shields.io/badge/-mariocvhx.com-000000?style=for-the-badge&)](mariochvx.com)
+![linkedin](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=LinkedIn&labelColor=0072b1&?link=&link=https://www.linkedin.com/in/mariochvx/)
+![gmail](https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=DB4437&link=&link=mailto:mariochavez1292@gmail.com)
+![mail](https://img.shields.io/badge/@-contactme@mariochvx.com-000000?style=for-the-badge&logoColor=white&labelColor=brightgreen&link=&link=mailto:contactme@mariochvx.com)
+![website](https://img.shields.io/badge/.-mariochvx.com-000000?style=for-the-badge&logoColor=white&labelColor=brightgreen&link=&link=mariochvx.com)
 
 ## My top technologies
 
-![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python)
-![pandas](https://img.shields.io/badge/-pandas-000000?style=for-the-badge&logo=pandas)
-![SQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=PostgreSQL)
+![Python](https://img.shields.io/badge/-python-000000?style=for-the-badge&logo=Python&logoColor=FFFFFF&labelColor=3776AB)
+![pandas](https://img.shields.io/badge/-pandas-000000?style=for-the-badge&logo=pandas&logoColor=FFFFFF&labelColor=150458)
+![SQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF&labelColor=4169E1)
 
 ## Technologies I have worked with
 
-![Firebase](https://img.shields.io/badge/-Firebase-000000?style=for-the-badge&logo=Firebase)
-![Hugo](https://img.shields.io/badge/-Hugo-000000?style=for-the-badge&logo=Hugo)
-![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
-![Linux](http://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=Linux)
-![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript)
-![Markdown](http://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown)
-![Latex](http://img.shields.io/badge/-LaTeX-000000?style=for-the-badge&logo=LaTeX)
+![Firebase](https://img.shields.io/badge/-Firebase-000000?style=for-the-badge&logo=Firebase&logoColor=FFCA28&labelColor=4169E1)
+![Hugo](https://img.shields.io/badge/-Hugo-000000?style=for-the-badge&logo=Hugo&logoColor=FFFFFF&labelColor=FF4088)
+![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git&logoColor=FFFFFF&labelColor=F05032)
+![Linux](http://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=Linux&logoColor=FFFFFF&labelColor=FCC624)
+![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C&logoColor=FFFFFF&labelColor=A8B9CC)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=FFFFFF&labelColor=F7DF1E)
+![Markdown](http://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=FFFFFF&labelColor=gray)
+![Latex](http://img.shields.io/badge/-LaTeX-000000?style=for-the-badge&logo=LaTeX&logoColor=FFFFFF&labelColor=008080)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=MarioChvx.MarioChvx&left_color=grey&right_color=black)
