@@ -28,4 +28,4 @@ I am a Data Science student with a passion for Data Engineering, Backend Develop
 ![Markdown](http://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown)
 ![Latex](http://img.shields.io/badge/-LaTeX-000000?style=for-the-badge&logo=LaTeX)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=MarioChvx.MarioChvx&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=MarioChvx.MarioChvx&left_color=grey&right_color=black)
