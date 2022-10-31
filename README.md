@@ -8,7 +8,7 @@ I am a Data Science student with a passion for Data Engineering, Backend Develop
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/mariochvx/)
 [![Gmail](https://img.shields.io/badge/-Gmail-DB4437?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mariochavez1292@gmail.com)
-[![mail](https://img.shields.io/badge/-contactme@mariochvx.com-000000?style=for-the-badge&logoColor=white)](mailto:contactme@mariochvx.commariochvx.com)
+[![mail](https://img.shields.io/badge/-contactme@mariochvx.com-000000?style=for-the-badge&logoColor=white)](mailto:contactme@mariochvx.com)
 [![mariochvx.com](https://img.shields.io/badge/-mariocvhx.com-000000?style=for-the-badge&)](mariochvx.com)
 
 ## My top technologies
