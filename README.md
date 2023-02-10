@@ -2,7 +2,7 @@
 
 ## About me
 
-I am a Data Science student with a passion for Data Engineering, Backend Development and Data Bases. I have a strong interest in learning about Big Data, Machine Learning, and OS. Outside Software Development world I also enjoy PC Hardware, Calisthenics, Motorcycles and Cooking.
+I am a Data Analyst with. I have a strong interest in big bata, machine learning, deep learning, and Unix operative systems. Outside Software Development world. I also enjoy PC hardware, calisthenics, and cooking.
 
 ## Reach me out
 
