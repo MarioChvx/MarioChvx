@@ -2,7 +2,7 @@
 
 ## About me
 
-I am a Data Analyst with. I have a strong interest in big bata, machine learning, deep learning, and Unix operative systems. Outside Software Development world. I also enjoy PC hardware, calisthenics, and cooking.
+I am a Data enthusiast. I have a strong interest in data analisys machine learning, neural networks, deep learning and Unix operative systems. Outside Software Development world. I also enjoy PC hardware, calisthenics, and cooking.
 
 ## Reach me out
 
