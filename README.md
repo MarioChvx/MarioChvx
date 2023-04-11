@@ -11,10 +11,16 @@ I am a Data enthusiast. I have a strong interest in data analisys machine learni
 ![website](https://img.shields.io/badge/.-mariochvx.com-000000?style=for-the-badge&logoColor=white&labelColor=brightgreen&link=&link=mariochvx.com)
 
 ## My top technologies
-
+<!--  
+Get the name of the icon on https://simpleicons.org/
+labelColor if for background
+string goes after badge 
+and it could include a link
+-->
 ![Python](https://img.shields.io/badge/-python-000000?style=for-the-badge&logo=Python&logoColor=FFFFFF&labelColor=3776AB)
 ![pandas](https://img.shields.io/badge/-pandas-000000?style=for-the-badge&logo=pandas&logoColor=FFFFFF&labelColor=150458)
 ![SQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF&labelColor=4169E1)
+![Bash](https://img.shields.io/badge/-Bash-000000?style=for-the-badge&logo=gnubash&logoColor=FFFFFF&labelColor=4EAA25)
 
 ## Technologies I have worked with
 
