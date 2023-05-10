@@ -17,6 +17,7 @@ and it could include a link
 ![Pandas](https://img.shields.io/badge/-pandas-000000?style=for-the-badge&logo=pandas&logoColor=FFFFFF&labelColor=150458)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF&labelColor=4169E1)
 ![Bash](https://img.shields.io/badge/-Bash-000000?style=for-the-badge&logo=gnubash&logoColor=FFFFFF&labelColor=4EAA25)
+![Jupyter](https://img.shields.io/badge/-jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=FFFFFF&labelColor=F37626)
 
 ## Tecnologies I want to learn
 
@@ -26,6 +27,7 @@ and it could include a link
 ![d3dotjs](https://img.shields.io/badge/-d3dotjs-000000?style=for-the-badge&logo=d3dotjs&logoColor=FFFFFF&labelColor=F9A03C)
 ![Hadoop](https://img.shields.io/badge/-apachehadoop-000000?style=for-the-badge&logo=apachehadoop&logoColor=FFFFFF&labelColor=66CCFF)
 ![Spark](https://img.shields.io/badge/-apachespark-000000?style=for-the-badge&logo=apachespark&logoColor=FFFFFF&labelColor=E25A1C)
+![Keras](https://img.shields.io/badge/-keras-000000?style=for-the-badge&logo=keras&logoColor=FFFFFF&labelColor=D00000)
 
 ## Technologies I have worked with
 
@@ -42,11 +44,12 @@ and it could include a link
 ![Word](http://img.shields.io/badge/-microsoftword-000000?style=for-the-badge&logo=microsoftword&logoColor=FFFFFF&labelColor=2B579A)
 ![Excel](http://img.shields.io/badge/-microsoftexcel-000000?style=for-the-badge&logo=microsoftexcel&logoColor=FFFFFF&labelColor=217346)
 ![PowerPoint](http://img.shields.io/badge/-microsoftpowerpoint-000000?style=for-the-badge&logo=microsoftpowerpoint&logoColor=FFFFFF&labelColor=B7472A)
+![Lua](http://img.shields.io/badge/-lua-000000?style=for-the-badge&logo=lua&logoColor=FFFFFF&labelColor=#2C2D72)
 
 ## Reach me out
 
-![linkedin](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=LinkedIn&labelColor=0072b1&?link=&link=https://www.linkedin.com/in/mariochvx/)
-![gmail](https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=DB4437&link=&link=mailto:mariochavez1292@gmail.com)
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=LinkedIn&labelColor=0072b1&?link=&link=https://www.linkedin.com/in/mariochvx/)
+![Gmail](https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=DB4437&link=&link=mailto:mariochavez1292@gmail.com)
 ![website](https://img.shields.io/badge/.-mariochvx.com-000000?style=for-the-badge&logoColor=white&labelColor=brightgreen&link=&link=mariochvx.com)
 
 
