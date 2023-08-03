@@ -18,6 +18,8 @@ and it could include a link
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF&labelColor=4169E1)
 ![Bash](https://img.shields.io/badge/-Bash-000000?style=for-the-badge&logo=gnubash&logoColor=FFFFFF&labelColor=4EAA25)
 ![Jupyter](https://img.shields.io/badge/-jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=FFFFFF&labelColor=F37626)
+![FastAPI](https://img.shields.io/badge/-fastapi-000000?style=for-the-badge&logo=fastapi&logoColor=FFFFFF&labelColor=009688)
+
 
 ## Tecnologies I want to learn
 
