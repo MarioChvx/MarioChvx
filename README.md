@@ -19,11 +19,10 @@ and it could include a link
 ![Bash](https://img.shields.io/badge/-Bash-000000?style=for-the-badge&logo=gnubash&logoColor=FFFFFF&labelColor=4EAA25)
 ![Jupyter](https://img.shields.io/badge/-jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=FFFFFF&labelColor=F37626)
 ![FastAPI](https://img.shields.io/badge/-fastapi-000000?style=for-the-badge&logo=fastapi&logoColor=FFFFFF&labelColor=009688)
-
+![ScikitLearn](https://img.shields.io/badge/-scikitlearn-000000?style=for-the-badge&logo=scikitlearn&logoColor=FFFFFF&labelColor=F7931E)
 
 ## Tecnologies I want to learn
 
-![ScikitLearn](https://img.shields.io/badge/-scikitlearn-000000?style=for-the-badge&logo=scikitlearn&logoColor=FFFFFF&labelColor=F7931E)
 ![TensorFlow](https://img.shields.io/badge/-tensorflow-000000?style=for-the-badge&logo=tensorflow&logoColor=FFFFFF&labelColor=FF6F00)
 ![Pytorch](https://img.shields.io/badge/-pytorch-000000?style=for-the-badge&logo=pytorch&logoColor=FFFFFF&labelColor=EE4C2C)
 ![d3dotjs](https://img.shields.io/badge/-d3dotjs-000000?style=for-the-badge&logo=d3dotjs&logoColor=FFFFFF&labelColor=F9A03C)
