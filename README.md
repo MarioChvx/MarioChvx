@@ -15,11 +15,11 @@ and it could include a link
 
 ![Python](https://img.shields.io/badge/-python-000000?style=for-the-badge&logo=Python&logoColor=FFFFFF&labelColor=3776AB)
 ![Pandas](https://img.shields.io/badge/-pandas-000000?style=for-the-badge&logo=pandas&logoColor=FFFFFF&labelColor=150458)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF&labelColor=4169E1)
-![Bash](https://img.shields.io/badge/-Bash-000000?style=for-the-badge&logo=gnubash&logoColor=FFFFFF&labelColor=4EAA25)
+![ScikitLearn](https://img.shields.io/badge/-scikitlearn-000000?style=for-the-badge&logo=scikitlearn&logoColor=FFFFFF&labelColor=F7931E)
 ![Jupyter](https://img.shields.io/badge/-jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=FFFFFF&labelColor=F37626)
 ![FastAPI](https://img.shields.io/badge/-fastapi-000000?style=for-the-badge&logo=fastapi&logoColor=FFFFFF&labelColor=009688)
-![ScikitLearn](https://img.shields.io/badge/-scikitlearn-000000?style=for-the-badge&logo=scikitlearn&logoColor=FFFFFF&labelColor=F7931E)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF&labelColor=4169E1)
+![Bash](https://img.shields.io/badge/-Bash-000000?style=for-the-badge&logo=gnubash&logoColor=FFFFFF&labelColor=4EAA25)
 
 ## Tecnologies I want to learn
 
